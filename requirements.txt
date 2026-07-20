@@ -6,4 +6,5 @@ streamlit
 yfinance
 joblib
 plotly
-openpyxl`
+fpdf2
+openpyxl
